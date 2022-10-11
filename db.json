@@ -1,0 +1,24 @@
+{
+"relationship": [
+  {
+    "id": 1,
+    "name": "Nam Dương",
+    "relation": "NY",
+    "birth": "17/06/2002",
+    "address": "Hà Nội",
+    "deductionPeriod": "17/06/2020 - 04/09/2022",
+    "note": "Là đối tượng giảm trừ",
+    "deduction": "Được giảm trừ"
+  },
+  {
+    "id": 2,
+    "name": "Sunny Guy",
+    "relation": "",
+    "birth": "04/09/2002",
+    "address": "Hải Dương",
+    "deductionPeriod": "17/06/2020 - Đến nay",
+    "note": "",
+    "deduction": "Được giảm trừ"
+  }
+ ]
+}
